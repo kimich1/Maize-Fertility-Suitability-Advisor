@@ -50,9 +50,9 @@ This intelligent tool assists farmers, students, and researchers in:
 - A **trained machine learning model** (Random Forest) classifies the soil as **suitable or not** for maize.
 - Nutrient levels are analyzed to generate **custom fertilizer recommendations**.
 - It also suggests a **3-stage plan** to optimize yield and reduce environmental impact.
-""")
----
 
+---
+""")
 # Main App Title and Form
 st.title("🌾 Maize Soil Fertility & Fertilizer Advisor")
 st.markdown("Input your soil and weather data below to get insights.")
