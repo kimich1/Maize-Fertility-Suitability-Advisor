@@ -54,7 +54,7 @@ This intelligent tool assists farmers, students, and researchers in:
 ---
 """)
 # Main App Title and Form
-st.title("🌾 Maize Soil Fertility & Fertilizer Advisor")
+st.title("🌾  Decision Support System for Maize Crop")
 st.markdown("Input your soil and weather data below to get insights.")
 
 with st.form("input_form"):
