@@ -34,7 +34,7 @@ st.set_page_config(page_title="🌽 Maize Suitability App", layout="centered")
 # Sidebar - About Section
 st.sidebar.title("ℹ️ About This App")
 st.sidebar.markdown("""
-### 🌽 Maize Fertility & Suitability Advisor
+### 🌽 Decision Support System for Maize Crop
 
 This intelligent tool assists farmers, students, and researchers in:
 
@@ -52,10 +52,10 @@ This intelligent tool assists farmers, students, and researchers in:
 - It also suggests a **3-stage plan** to optimize yield and reduce environmental impact.
 
 ---
+"""
 
-👨🏽‍💻 **Developed by**: Aminna  
-🎓 Final Year, Computer Science – FUTMINNA  
-📚 Built using Python, Streamlit, Scikit-learn  
+
+ 
 """)
 
 # Main App Title and Form
