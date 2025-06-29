@@ -42,7 +42,7 @@ This intelligent tool assists farmers, students, and researchers in:
 - ✅ Determining **maize suitability** based on weather and soil conditions
 - ✅ Recommending **fertilizer type and dosage**
 - ✅ Suggesting a stage-based **fertilizer application plan**
-
+""")
 ---
 
 ### ⚙️ How it Works
@@ -52,11 +52,6 @@ This intelligent tool assists farmers, students, and researchers in:
 - It also suggests a **3-stage plan** to optimize yield and reduce environmental impact.
 
 ---
-"""
-
-
- 
-""")
 
 # Main App Title and Form
 st.title("🌾 Maize Soil Fertility & Fertilizer Advisor")
